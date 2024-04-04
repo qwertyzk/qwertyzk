@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/zuzanna-kurnicka-214666302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </p>
 
 
@@ -37,6 +37,6 @@
 <br>   
     
 
-<center>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwertyzk&show_icons=true&locale=en&layout=compact" alt="qwertyzk" />
-</center>
+</p>
