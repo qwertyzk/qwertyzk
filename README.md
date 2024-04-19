@@ -10,8 +10,6 @@
 
 - [Bezier curve editor](https://github.com/qwertyzk/Bezier_curve_editor)
 
-- [Chicken shop online](https://github.com/qwertyzk/Chicken_shop_online)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/zuzanna-kurnicka-214666302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
